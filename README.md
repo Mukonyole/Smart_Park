@@ -1,5 +1,5 @@
 SMARTPARK : Parking Booking System
-Programming Languages used in the web application
+Programming Languages used in the web application<br>
 Frontend : HTML5, CSS3, JavaScript.
 Backend : Python, Django framework.
 Database : SQLite3.
