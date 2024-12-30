@@ -1,22 +1,22 @@
 SMARTPARK : Parking Booking System<br>
 Programming Languages used in the web application<br>
-Frontend : HTML5, CSS3, JavaScript.
-Backend : Python, Django framework.
-Database : SQLite3.
+Frontend : HTML5, CSS3, JavaScript.<br>
+Backend : Python, Django framework.<br>
+Database : SQLite3.<br>
 
-SmartPark is a parking slot booking system designed to help users easily find and reserve parking spaces. 
-The application allows users to search for available parking spots, view details, and book a spot in advance, all through a user-friendly interface.
+SmartPark is a parking slot booking system designed to help users easily find and reserve parking spaces. <br>
+The application allows users to search for available parking spots, view details, and book a spot in advance, all through a user-friendly interface.<br>
 
-Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-Database Structure
-Contributing
-Contact
+Table of Contents<br>
+Features<br>
+Technologies Used<br>
+Installation<br>
+Usage<br>
+Database Structure<br>
+Contributing<br>
+Contact<br>
 
-Features
+Features<br>
 User Registration & Login: Secure user authentication and profile management.
 Search Functionality: Search for available parking spots by location and date.
 Real-Time Availability: Check the availability of parking slots in real-time.
@@ -24,13 +24,13 @@ Booking System: Reserve parking spots and receive instant booking confirmation.
 User Dashboard: Manage bookings and view history.
 Admin Dashboard: Admins can manage parking spots, view all bookings, and perform other administrative tasks.
 
-Technologies Used
-Front-End
-HTML5: For structuring the web pages.
-CSS3: For styling the application and creating a responsive design.
-JavaScript: For adding interactivity and handling client-side logic.
+Technologies Used<br>
+Front-End<br>
+HTML5: For structuring the web pages.<br>
+CSS3: For styling the application and creating a responsive design.<br>
+JavaScript: For adding interactivity and handling client-side logic.<br>
 
-Back-End
+Back-End<br>
 Python: Programming language used for back-end development.
 Django: High-level Python web framework that encourages rapid development and clean, pragmatic design.
 SQLite3: Lightweight database used for storing application data.
